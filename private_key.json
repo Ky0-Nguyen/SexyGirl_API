@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nampay-da927",
+  "private_key_id": "29c556bd16612c241ce313c01b0b4ce02543560c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyHwhgkdA3j9gw\nNlSxcWMiI6sziLN7YwY1l3jTolxvJudxYpQP6I58g0ulsq9j1JVmiNV7NGJ951H6\n0OhRc/cz0XP6OvxPqDvksnOaXgL4sE6vLobEAirKdRxJflWLLNMf8y5QVW5G6wUl\naNbax+AU+UIvLrJvhojPpFeLpVsKCnlWQCLpKkk4oKSDb3K2JUrjZUsBUYQeZLTn\nOuGTnc0gmnd3c8LQoH/w1gWln11Ld0Au/dokdfeuzsovkDo2jxpuScB6pj8zHHY8\nt+yottTfU2AV/iHPwH96ChVojfCkqMPwP1FXQNCkjVRgbD9emjHRN1RPniuarJLw\nYj/9NwAhAgMBAAECggEADW/MMiYTHCXklpp6oBogHX1YVwkLFRXpbCsy3lrYozqU\nP1hC4sJV1qxm4qc3QON9U7X4eL9WZg4IVVCOE0WZZ9Yh7BtSrkWleFaX5D9kSlNZ\nKYZBJ1HMiDz2YdA/GW0hDhTKW8gIth6DjbNkxdifHaXsqWIvQWeCNDu/A5X5PKlh\nDVxheNJFTSaSL3eCW4Otd2zo+OP99v7d8CgJ9dWvt5T8sb5c9sGugrirCqo9Qq1l\nc+f9fK3gVDLGLO/8qOZq6A6p6lwCSwghmO+eB093nAiWP/qlz4eJp6MgmHusv7Y8\nNumK5gPB71cwDnfz8Dn6rLGhNTycA2344xRTxj08qwKBgQDaE4O3tawTMuoxQ/jT\nhEyKJSzZ2QH0g85LxNOjhMal5zvMihNm5AcBVJj//ooWmNb4UricH2Pk7EzXBvcE\nfWO5f9hw1T2jOSeEbL3b3jUDCE/hxZetN795R9kXZA1LgNCTv4SGFXfSDixqdoiI\nAlPEj36usLO12/s1DamaQkOKhwKBgQDRGMU69L83cRavsULDUeFmxFztcZ5EmUac\nI1zI/HNKINlm38oT8QT2VaaS9M0uwv1XyO7XZ9e0zoQAcmekILG8eV6GP6uQUJU1\n+IuXWXfJbOKzcEteBDN3n5dpufUZRCyhdrmltlijtJqloaLmJzY3MkHfnVHw+YJK\nF/5YLwuCFwKBgQDNIB/8lHE4WeL51jLeWopYQyGOBFaXdcd9c7WTENh9wyR3f8VC\nOejw8m88FGQ1XyyNxdmKWOhws2iPtihx27QLD1s6vwnMV315TYPEpZ39rTreZisG\nrvJ3FQL5wo3S4GbRIwt3yAe92MEknzxLmszKjiMeFG3l+Paw75oB1KSNTwKBgQDE\nkvD42BbcXGjji1Ykodmx73EdmO8dtqt3JpeYLB2G1xMLb+Belvv/Sc5r4dDz4USj\nPrersmhMBsp6URO2bTYq5j9DHqB/8AIW1y8EfovqxX7rCusP3As2rsZ+EuClfD4p\nHaCydZcncCbjB+5JSRvjEFB1lUTvsuIWHjBzXucGyQKBgFXxTpOSncNvRNPC7jt2\nFAlVMbOGKkj6IcVCcwA+rCcEOzsT891YLbg7fSautJtm/lPvt+mTg+xzy3024owg\nHAB07CnpkaWg2qlkLFvxXT18NP6ExLCze5vucz1OE/v51NbNp6hgCHgUeVSCfx52\nKgud2BQVOxys72cTFxKYVGQ7\n-----END PRIVATE KEY-----\n",
+  "client_email": "sexygirlapi@nampay-da927.iam.gserviceaccount.com",
+  "client_id": "116983826401643134738",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sexygirlapi%40nampay-da927.iam.gserviceaccount.com"
+}
